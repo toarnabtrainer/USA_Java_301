@@ -10,7 +10,7 @@ http://www.sietk.org/downloads/javabook.pdf
 https://www.academia.edu/41982986/Java_The_Complete_Reference_11th_edition<br>
 https://pdfcoffee.com/java-the-complete-reference-eleventh-edition-pdf-free.html
 
-**Online Python Editors:**<br>
+**Online Java Editors:**<br>
 https://onecompiler.com/<br>
 https://www.onlinegdb.com/
 
