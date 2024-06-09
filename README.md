@@ -10,6 +10,10 @@ http://www.sietk.org/downloads/javabook.pdf
 https://www.academia.edu/41982986/Java_The_Complete_Reference_11th_edition<br>
 https://pdfcoffee.com/java-the-complete-reference-eleventh-edition-pdf-free.html
 
+**Online Python Editors:**<br>
+https://onecompiler.com/<br>
+https://www.onlinegdb.com/
+
 **Java Installation:**
 __(Installing Java-8)__
 * First Download Java 8 from the link: "https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html" and install it. (jdk-8u202-windows-x64.exe (211.58 MB))
